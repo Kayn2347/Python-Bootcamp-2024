@@ -1,0 +1,1 @@
+Data Structure are different ways of organizing  data on your computer that can be use effectively.
