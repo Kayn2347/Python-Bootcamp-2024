@@ -1,0 +1,10 @@
+This is text fimport pathlib import pathlib
+
+
+path_test = Path.cwd() / "archive" / "test.txt"
+print(f"File name:") {path_test.name}")
+print(f"File directory: {path_test.parent}")
+print(f"Parent File directory: {path_test.parent.parent}")
+print(f"File name without extension: {path_test.stem}")
+print("File extension: {path_test.suffix}")
+ile for testing purposes

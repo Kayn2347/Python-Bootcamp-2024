@@ -1,0 +1,41 @@
+                                VIRTUAL   REGION
+REGION TYPE                        SIZE    COUNT (non-coalesced)
+===========                     =======  =======
+Accelerate framework              2560K       20
+Activity Tracing                   256K        1
+CG backing stores                 3792K        6
+CG image                          76.3M      217
+CG raster data                    53.9M      252
+CoreAnimation                    970.1M     2317
+CoreGraphics                        12K        2
+CoreImage                          132K       12
+CoreMedia memory pool             1072K        7
+CoreUI image data                 5180K       39
+Foundation                         156K        3
+IOKit                             15.5M        2
+Image IO                          20.7M       29
+Kernel Alloc Once                    8K        1
+MALLOC                             1.2G     1540
+MALLOC guard page                   32K        6
+MALLOC_LARGE (reserved)           23.8M        7         reserved VM address space (unallocated)
+MALLOC_NANO (reserved)           256.0M        1         reserved VM address space (unallocated)
+OpenGL GLSL                        256K        3
+STACK GUARD                       56.3M       74
+Stack                             45.6M       74
+VM_ALLOCATE                       9160K       88
+WebKit Malloc                     5224K       10
+__DATA                            48.9M      659
+__DATA_CONST                      34.8M      379
+__DATA_DIRTY                      1936K      249
+__FONT_DATA                          4K        1
+__GLSLBUILTINS                    5176K        1
+__LINKEDIT                       535.5M       98
+__OBJC_RO                         70.2M        1
+__OBJC_RW                         2496K        2
+__TEXT                           564.7M      630
+__UNICODE                          588K        1
+mapped file                        9.9G      569
+shared memory                      772K       17
+===========                     =======  =======
+TOTAL                             13.9G     7318
+TOTAL, minus reserved VM space    13.6G     7318
