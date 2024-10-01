@@ -1,0 +1,2 @@
+text = """
+From test@appmillers.com Wen Jan  5 09:14:16 2022\nFrom info@appmillers.com Wen Jan  5 09:14:16 2022\nFrom elshad@appmillers.com Wen Jan  5 \nFrom redy@appmillers.com Wen Jan  5 \nFrom info@appmillers.com Wen Jan  5 """
