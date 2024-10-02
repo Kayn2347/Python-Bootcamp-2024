@@ -1,0 +1,1 @@
+Create a program that reads text file and  asks from user to add their own text anywhere the ADJECTIVE, VERB or NOUN appears. The program should fine these occurrences, prompt the user to replace them and write the output to new text file.
