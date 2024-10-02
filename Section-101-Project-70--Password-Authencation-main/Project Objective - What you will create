@@ -1,0 +1,2 @@
+Password Authentication
+Every application that requests a password from a user uses password authentication. It is the process of checking the identity of a user so that it can be only accessible for a particular user. So in this lecture, we will create password authentication using Python.
