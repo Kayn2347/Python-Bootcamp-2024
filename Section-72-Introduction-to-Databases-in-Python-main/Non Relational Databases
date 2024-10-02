@@ -1,0 +1,32 @@
+Non Relational Database
+
+The storage model depends on the type of data
+JSON documents, key value pairs or graph with vertices and edges
+
+DOCUMENT DATABASE
+Designed to store JSON/XML like database
+
+KEY-VALUE DATABASE
+Data is stored as key value pair and one value can have multiple attributes
+You can only query the data using key
+More than one key for given value
+Amazon Dynamo DB 
+
+COLUMNAR DATABASE
+Organized by columns rather than rows
+Row based:
+John Clever,Software Engineer, 1000, Edy lucky, Techinical Team Lead, 2000
+
+COLUMN BASED:
+John Clever, Edy Luckym, Software Engineer, Technical Team Lead,1000,2000
+Each row can have different sets of columns
+
+GRAPH DATABASE
+Collection of Nodes and Edges
+Nodes- represent the data.Edges represent the relationship between nodes
+Ideal for small individual piece of data with complex relationship
+Neoj4
+
+NoSQL Databases
+NoSQL databases are non relational databases
+SQL can be used, but here other options for querying data

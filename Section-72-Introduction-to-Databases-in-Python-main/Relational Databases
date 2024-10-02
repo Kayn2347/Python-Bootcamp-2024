@@ -1,0 +1,13 @@
+Relational Database
+A relational  database consists of a collection of data with predefined relationship
+between its contents
+Relational databases are organized into tables with columns and rows
+
+
+Managing Relational Database
+In order to create and update a relational database, we'll need to use a relational 
+database manag,emt system(RDBMS)
+examples: SQLite, MY SQL and PostgreSQL
+
+
+Use SQL(Structured Query Languange) to access and manage the database

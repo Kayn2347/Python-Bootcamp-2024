@@ -1,0 +1,10 @@
+Python Database API represents the Datanase Management System
+It is common specification for different DBMS
+Once you implement it for one module It is easier to use it for others
+Sample Modules: Sqlite3, MySQL, PostgreSQL
+
+Connect function must Implemented which returns connection object
+
+connection = connect(parameters..)
+connection.rollback()
+conneection.close()
