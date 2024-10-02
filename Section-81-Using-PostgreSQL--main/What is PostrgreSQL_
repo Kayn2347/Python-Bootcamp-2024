@@ -1,0 +1,4 @@
+What is PostrgreSQL?
+
+It stores data in Tables with columns and rows
+Object relational database which includes table inheritance and functions overloading
