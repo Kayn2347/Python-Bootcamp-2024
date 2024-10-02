@@ -1,0 +1,4 @@
+import practice
+
+practice.main()
+
