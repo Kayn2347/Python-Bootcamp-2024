@@ -1,0 +1,2 @@
+What you will make by the end of this section
+This project defines a decorator called memoize which takes a function as an argument and returns a new function that caches the results of the original function for future calls with the same arguments. It also defines a function called fibonacci which recursively computes the Fibonacci sequence up to the nth number.
