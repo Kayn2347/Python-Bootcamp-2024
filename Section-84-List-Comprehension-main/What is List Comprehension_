@@ -1,0 +1,16 @@
+List Comprehension
+
+new_list = [ new_item for item in list]
+new_list = []
+for in in prev_list:
+   multiply_2 = i * 2
+   new_list.append(multiply_2)
+
+prev_list = [1, 2, 3]
+new_list = [i*2 for i in prev_list]
+print(prev_list)
+print(new_list)
+
+language = 'Python'
+new_list = [letter for letter in language]
+print(new_list)
