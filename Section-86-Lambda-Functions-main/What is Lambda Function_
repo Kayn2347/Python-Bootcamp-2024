@@ -1,0 +1,17 @@
+What is Lambda Function?
+Also Known as:
+Lambda expressions
+Anonymous functions
+Lambda abstractions
+Lambda form
+Functions literals
+
+def my_func(a, b, c):
+     result = a*b*c
+     return result
+
+lambda a, b, c: a*b*c
+
+lambda a, b, c: a+b+c
+lambda a, b, c: a*2+b-c
+lambda a: a % 2 == 0
